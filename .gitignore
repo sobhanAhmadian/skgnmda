@@ -1,0 +1,6 @@
+.vscode/
+__pycache__/
+.idea/
+.DS_Store
+data_repository/raw
+data_repository/processed/Integrated

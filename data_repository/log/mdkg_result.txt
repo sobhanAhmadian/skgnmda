@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "time": "Fri Sep  1 17:59:42 2023",
+        "result": {
+            "time": "Fri Sep  1 17:59:42 2023",
+            "result": {
+                "dataset": "mdkg_hmdad",
+                "aggregator_type": "sum",
+                "avg_auc": 1.0,
+                "avg_acc": 0.0,
+                "avg_f1": 0.0,
+                "avg_aupr": 0.0
+            }
+        }
+    },
+    {
+        "id": 1,
+        "time": "Fri Sep  1 17:59:49 2023",
+        "result": {
+            "time": "Fri Sep  1 17:59:49 2023",
+            "result": {
+                "dataset": "mdkg_hmdad",
+                "aggregator_type": "sum",
+                "avg_auc": 1.0,
+                "avg_acc": 0.0,
+                "avg_f1": 0.0,
+                "avg_aupr": 0.0
+            }
+        }
+    }
+]
