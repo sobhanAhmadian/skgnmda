@@ -1,3 +1,3 @@
-# Collect MDA
+# SKGNMDA
 
-This is a platform for collecting data for the Microbe-Disease Association problem.
+A clean implementation of [KGNMDA](https://ieeexplore.ieee.org/abstract/document/9800198) model. 
