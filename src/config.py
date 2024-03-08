@@ -8,11 +8,6 @@ PROCESSED_DATA_DIR = os.getcwd() + "/data_repository/processed"
 LOG_DIR = os.getcwd() + "/data_repository/log"
 MODEL_SAVED_DIR = os.getcwd() + "/data_repository/ckpt"
 
-INTEGRATED_DATA_DIR = os.path.join(PROCESSED_DATA_DIR, "Integrated")
-VMH_RAW_DATASET_DIRECTOR = os.path.join(RAW_DATA_DIR, "VMH")
-MIND_RAW_DATASET_DIRECTOR = os.path.join(RAW_DATA_DIR, "MIND")
-HMDAD_RAW_DATASET_DIRECTOR = os.path.join(RAW_DATA_DIR, "HMDAD")
-
 # mdkg_hmdad
 KG_FILE = {"mdkg_hmdad": os.path.join(RAW_DATA_DIR, "mdkg_hmdad", "train2id.txt")}
 ENTITY2ID_FILE = {
